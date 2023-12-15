@@ -1,4 +1,4 @@
-# Atividade ponderada 7 Inteli Módulo 8
+# Atividade ponderada 8 Inteli Módulo 8
 
 Este repositório contém os códigos para a seguinte atividade:
 
