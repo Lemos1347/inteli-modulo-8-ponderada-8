@@ -7,6 +7,8 @@ Este repositório contém os códigos para a seguinte atividade:
 
 ## Vídeo demonstrativo
 
+https://github.com/Lemos1347/inteli-modulo-8-ponderada-8/assets/99190347/1b2e952f-3e38-481b-a811-06e7b5606b24
+
 ## Sobre os arquivos
 
 Nesse repositório você encontrará um arquivo python que é uma aplicação de terminal que integra funcionalidades de speech-to-text, tradução de texto, e text-to-speech. O objetivo é receber um arquivo de áudio, transformá-lo em texto, traduzir o texto para um idioma escolhido e, por fim, gerar um novo arquivo de áudio com a tradução. Além disso, há um arquivo de audio para teste (caso queira testar o programa com outros audios é necessário fazer o upload do arquivo, obrigatoriamente em formato .mp3, para o diretório do projeto) e dois outros arquivos com um audio traduzido do audio de teste original.
